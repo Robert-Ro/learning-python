@@ -1,0 +1,4 @@
+*.dylib
+.vscode/
+venv
+output
